@@ -2,6 +2,7 @@ var nomeAutor;
 var sobreNomeAutor;
 var obra;
 var editora;
+var cidade;
 var ano;
 var citacao;
 
@@ -16,6 +17,9 @@ function gerarCitacao() {
     if(document.getElementById('obraInput').value){
         obra = document.getElementById('obraInput').value;
     }
+    if(document.getElementById('cidadeInput').value){
+        cidade = document.getElementById('cidadeInput').value;
+    }
     if(document.getElementById('editoraInput').value){
         editora = document.getElementById('editoraInput').value;
     }
@@ -23,12 +27,12 @@ function gerarCitacao() {
         ano = document.getElementById('anoInput').value;
     }
 
-    citacao = sobreNomeAutor.toUpperCase() + "; " + nomeAutor + ". "  + obra.bold() + ". " + editora + ". " + ano + ".";
+    citacao = sobreNomeAutor.toUpperCase() + "; " + nomeAutor + ". "  + obra.bold() + ". " + editora + ". " + cidade + ". " + ano + ".";
     if (citacao) {
         document.getElementById('citacao').innerHTML = citacao;
     }
 }
 
 function maisAutor(){
-    
+
 }
