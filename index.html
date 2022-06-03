@@ -7,6 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Gerador de citações</title>
     <link rel="stylesheet" href="style.css" />
+    <link rel="icon" type="image/x-icon" href="/favicon.ico" />
 
 </head>
 
@@ -15,7 +16,6 @@
     <div id="background">
         <div id="tableBackground">
             <p id="citacao"> nada aqui </p>
-            
             <table id="tabela">
                 <caption> Exemplo: CONI, N.; DAVIDSON, W.; WEBSTER, J. O envelhecimento. Tradução de Y. S. Toledo. São
                     Paulo: Experimento, 1996.</caption>
@@ -30,6 +30,13 @@
                 <tr>
                     <th>Autor(Sobrenome)</th>
                     <td><input id="sobreNomeAutorInput" /></td>
+                </tr>
+                <tr>
+                    <td colspan="2"><button id="maisAutorButton" onclick="maisAutor()">Adicionar mais 1 autor</td>
+                </tr>
+                <tr>
+                    <th>Obra</th>
+                    <td><input id="obraInput" /></td>
                 </tr>
                 <tr>
                     <th>Editora</th>
