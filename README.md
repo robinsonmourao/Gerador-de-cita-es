@@ -2,10 +2,6 @@
 
 <p align="center">Uma gerador de citações em JavaScript, CSS e HTML. De uso pessoal</p>
 
-<h4 align="center"> 
-	🚧  Em construção...  🚧
-</h4>
-
 ### Recursos
 - [x] Montagem da citação;
 - [x] Sobrenome do autor em maiúsculo;
@@ -21,11 +17,18 @@ https://robinsonmourao.github.io/Gerador-de-citacoes/
   <img alt="Gerador de citações JuiceD" src="./Gerador de citações JuiceD.png" />
 </h1>
 
-### Autor
+<table>
+  <td align="center">
+	    <a href="https://github.com/robinsonmourao">
+		    <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/49078615?s=460&u=1163c04d9f35b577063b3f6550ae520c4dd2f866&v=4" width="100px;" alt=""/>
+		    <br/><sub><b>Robinson Mourão</b></sub>
+		</a></br>
+    </td>
+</table>
 
-<img src="https://avatars.githubusercontent.com/u/49078615?s=400&u=83967b35f8d7a3216118751e37824359e85c2fc9&v=4.png" />
-
-Feito por Robinson Mourão 👋🏽
 <div>
-  <a href = "mailto:bob.info.guaratiba@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-</div><br>
+  <a href="https://www.youtube.com/channel/UCBpKEuXZoi1qBtf4jLx1IuQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/robinson_mds.java" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:bob.info.guaratiba@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "https://www.linkedin.com/in/robinson-mour%C3%A3o-9585a3248/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
