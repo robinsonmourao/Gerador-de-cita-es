@@ -1,4 +1,4 @@
-<h1 align="center">Gerador de citações_JuiceD</h1>
+<h1 align="center">[DESCONTINUADO]Gerador de citações_JuiceD</h1>
 
 <p align="center">Uma gerador de citações em JavaScript, CSS e HTML. De uso pessoal</p>
 
