@@ -1,7 +1,11 @@
-<h1 align="center">[DESCONTINUADO]Gerador de citações_JuiceD</h1>
+<h1 align="center">Gerador de citações_JuiceD</h1>
 
-<p align="center">Uma gerador de citações em JavaScript, CSS e HTML. De uso pessoal</p>
+<p align="center">Uma gerador de citações em JavaScript, CSS e HTML criado para agilizar citações no meio acadêmico.</p>
 
+### Esclarecimentos
+
+  Não foi utilizado GPT!
+  
 ### Recursos
 - [x] Montagem da citação;
 - [x] Sobrenome do autor em maiúsculo;
